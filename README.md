@@ -24,3 +24,9 @@ Cybersecurity is a practice to ensure Confidentiality (C), Integrity (I), and Av
 
 7. **Cloud Security:**  
    As more businesses move to the cloud, securing data is an ongoing challenge.
+
+8. **Mobile Security:**
+    Mobile devices are now a part of the network. Ensuring these devices are secure is just as important as a desktop.
+
+9. **Disaster Recovery/ Business Continuity Planning:**
+    In the event of a breach, natural disaster, or other event, having a disaster recovery plan is essential.
