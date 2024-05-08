@@ -67,12 +67,12 @@ Cybersecurity is a practice to ensure Confidentiality (C), Integrity (I), and Av
 
   **Important IPs**
   ```bash
-       -  0.0.0.0: Default Network, which is the abstract concept of just
-          being connected to a TCP/IP network.
-       
-       -  255.255.255.255: Reserved for network broadcasts i.e -
-          messages that should go to all computers on the network.
-       
-       -  127.0.0.1: Loopback address or the computer way of
-          identifying itself, whether or not it has an assigned IP address.
+      -  0.0.0.0: Default Network, which is the abstract concept of just
+         being connected to a TCP/IP network.
+      
+      -  255.255.255.255: Reserved for network broadcasts i.e -
+         messages that should go to all computers on the network.
+      
+      -  127.0.0.1: Loopback address or the computers way of
+         identifying itself, whether or not it has an assigned IP address.
   ```
