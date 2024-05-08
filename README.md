@@ -78,3 +78,28 @@ Cybersecurity is a practice to ensure Confidentiality (C), Integrity (I), and Av
   ```
 
   ![alt text](image.png)
+
+   **Important Ports**
+
+   - A network port which is provided by the Transport Layer protocols of Internet
+     Protocol suite, such as Transmission Control Protocol (TCP) and User Datagram
+     Protocol (UDP) is a number which is serving endpoint communication between two
+     computers.
+   - Each port number have a distinct service
+   - Total Number of ports = 65535
+     16 bits
+
+
+**Ports are classified into 3 main categories**
+   
+   - **Well Known Ports (Port numbers 0 - 1023)** :
+     Well known ports are used by system or processes run by root or with specific
+     privileges. The port numbers range from 0 to 1023.
+   
+   - **Registered Ports (Port numbers 1024 - 49151)** :
+     The registered port numbers range from 1024-49151. Such ports are used by
+     programs run by users in the system.
+   
+   - **Private/Dynamic Ports** :
+     Private ports are not assigned for any specific purpose. its range are from
+     range 49152-65535.
