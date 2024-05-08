@@ -36,11 +36,24 @@ Cybersecurity is a practice to ensure Confidentiality (C), Integrity (I), and Av
 ## Networking
 
 **IP Address** .
- 1.  Every machine on a network has a unique identifier
- 2.  Command to check IP in Linux env ( ifconfig or ip a )
- 3.  Command to check IP in Windows env ( ipconfig )
- 4.  IPv4 and IPv6
- 5.  Public and Private IP
+      1.  Every machine on a network has a unique identifier
+      2.  Command to check IP in Linux env ( ifconfig or ip a )
+      3.  Command to check IP in Windows env ( ipconfig )
+      4.  IPv4 and IPv6
+      5.  Public and Private IP
 
   - Public IP address are always unique across the internet.
   - Private IP address are unique within a network, but not across the internet.
+
+
+   **IPV4**
+  ```bash
+      32 bits (4 Octets) - x.x.x.x   x=l octet (1 Octet = 8 bits)
+      Example : 192.168.2.4
+      192 in binary = 11000000 (8 bits)
+      168 in binary = 10101000 (8 bits)
+      2 in binary  = 00000010 (8 bits)
+      4 in binary = 00000100 (8 bits)
+      
+      11000000.10101000.00000010.00000100
+  ```
