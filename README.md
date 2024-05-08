@@ -41,3 +41,6 @@ Cybersecurity is a practice to ensure Confidentiality (C), Integrity (I), and Av
  3.  Command to check IP in Windows env ( ipconfig )
  4.  IPv4 and IPv6
  5.  Public and Private IP
+
+  - Public IP address are always unique across the internet.
+  - Private IP address are unique within a network, but not across the internet.
