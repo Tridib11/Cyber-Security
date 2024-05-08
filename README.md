@@ -57,3 +57,22 @@ Cybersecurity is a practice to ensure Confidentiality (C), Integrity (I), and Av
       
       11000000.10101000.00000010.00000100
   ```
+
+  **IPV6**
+  ```bash
+      8 Groups of Hexadecimal Digits
+      128 bits (16 Octets) - x:x:x:x:x:x:x:x
+      Example : 2001:0db8:85a3:0000:0000:8a2e:0370:7334
+  ```
+
+  **Important IPs**
+  ```bash
+       -  0.0.0.0: Default Network, which is the abstract concept of just
+          being connected to a TCP/IP network.
+       
+       -  255.255.255.255: Reserved for network broadcasts i.e -
+          messages that should go to all computers on the network.
+       
+       -  127.0.0.1: Loopback address or the computer way of
+          identifying itself, whether or not it has an assigned IP address.
+  ```
