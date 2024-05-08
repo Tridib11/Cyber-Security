@@ -30,3 +30,14 @@ Cybersecurity is a practice to ensure Confidentiality (C), Integrity (I), and Av
 
 9. **Disaster Recovery/ Business Continuity Planning:**
     In the event of a breach, natural disaster, or other event, having a disaster recovery plan is essential.
+
+
+
+## Networking
+
+**IP Address** .
+ 1.  Every machine on a network has a unique identifier
+ 2.  Command to check IP in Linux env ( ifconfig or ip a )
+ 3.  Command to check IP in Windows env ( ipconfig )
+ 4.  IPv4 and IPv6
+ 5.  Public and Private IP
