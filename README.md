@@ -76,3 +76,5 @@ Cybersecurity is a practice to ensure Confidentiality (C), Integrity (I), and Av
       -  127.0.0.1: Loopback address or the computers way of
          identifying itself, whether or not it has an assigned IP address.
   ```
+
+  ![alt text](image.png)
