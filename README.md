@@ -103,3 +103,17 @@ Cybersecurity is a practice to ensure Confidentiality (C), Integrity (I), and Av
    - **Private/Dynamic Ports** :
      Private ports are not assigned for any specific purpose. its range are from
      range 49152-65535.
+
+# Kali linux
+
+**Touchup on Languages**
+
+All the files are present in here the one you want to host
+```bash
+cd /var/www/html
+```
+To run it in apache server 
+navigate to the directory and run
+```bash
+service apache2 start
+```
