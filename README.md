@@ -119,7 +119,7 @@ service apache2 start
 ```
 
 
-# Creating custom wordList using a tool
+# Creating custom wordList using a tool (Method 1)
 ```bash
 cewl
 ```
@@ -156,4 +156,21 @@ sort -u <filename> > <newfilename>
 Example
 ```bash
 sort -u ./Documents/apple.txt > ./Documents/apple1.txt
+```
+
+
+# Creating custom wordList  (Method 2)
+
+```bash
+crunch  
+```
+
+Crunch can create a wordlist based on criteria you specify.  The output from crunch can be sent to the screen, file, or to another program.
+
+```bash
+crunch <min> <max> [options]
+```
+Example
+```bash
+crunch 3 6 abcdefg -o crunchList.txt
 ```
