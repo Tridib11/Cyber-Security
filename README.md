@@ -174,3 +174,17 @@ Example
 ```bash
 crunch 3 6 abcdefg -o crunchList.txt
 ```
+
+```bash
+@ - lower char
+% -Numbers
+, - Uppercase
+^ - symbols
+```
+
+
+```bash
+crunch 4 4 abcdefg123 -t @b%% -o crunchout.txt
+
+this line generates a wordlist that has 4 characters long, with the first character being a lowercase letter, the second being b, and the third and  fourth character being a Number
+```
