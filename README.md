@@ -138,3 +138,22 @@ cewl -w ./Documents/apple.txt -d 0 -m 6 https://en.wikipedia.org/wiki/Apple_Inc.
 -w : output file ,
 -d : depth ,
 -m : minimum length of the word
+
+
+Word count of the list
+```bash
+wc -l <filename>
+```
+-l : line count
+
+Sort the list
+Syntax
+```bash
+sort -u <filename> > <newfilename>
+```
+-u : unique
+
+Example
+```bash
+sort -u ./Documents/apple.txt > ./Documents/apple1.txt
+```
