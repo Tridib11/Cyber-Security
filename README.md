@@ -117,3 +117,24 @@ navigate to the directory and run
 ```bash
 service apache2 start
 ```
+
+
+# Creating custom wordList using a tool
+```bash
+cewl
+```
+
+this tool spiders a given web to a specified depth and creates a wordlist of all the words it finds on the site.
+
+syntax
+```bash
+cewl -w <output file> -d <depth> -m <minimum length of the word> <url>
+
+```
+```bash
+cewl -w ./Documents/apple.txt -d 0 -m 6 https://en.wikipedia.org/wiki/Apple_Inc.
+```
+
+-w : output file 
+-d : depth
+-m : minimum length of the word
