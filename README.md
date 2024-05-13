@@ -188,3 +188,6 @@ crunch 4 4 abcdefg123 -t @b%% -o crunchout.txt
 
 this line generates a wordlist that has 4 characters long, with the first character being a lowercase letter, the second being b, and the third and  fourth character being a Number
 ```
+
+
+![alt text](image-1.png)
