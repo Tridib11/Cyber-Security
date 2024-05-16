@@ -191,3 +191,39 @@ this line generates a wordlist that has 4 characters long, with the first charac
 
 
 ![alt text](image-1.png)
+
+
+
+
+# 5 Phases of Hacking
+
+1 **Reconnaissance** : 
+  - Passive Reconnaissance
+  - Active Reconnaissance
+  
+2 **Scanning** : 
+  - Port Scanning
+  - Network Scanning
+  - Vulnerability Scanning
+
+3 **Gaining Access** :
+   - Password Cracking
+   - Buffer Overflow
+   - Session Hijacking
+   - Social Engineering
+   - SQL Injection
+   - Cross Site Scripting
+
+4 **Maintaining Access** :
+   - Rootkits
+   - Backdoors
+   - Trojans
+   - Logic Bombs
+   - Viruses
+   - Worms
+
+5 **Clearing Tracks** :
+   - Log Deletion
+   - File Deletion
+   - Disabling Auditing
+   - Clearing Logs
