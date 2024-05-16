@@ -200,7 +200,7 @@ this line generates a wordlist that has 4 characters long, with the first charac
 1 **Reconnaissance** : 
   - Passive Reconnaissance
   - Active Reconnaissance
-  
+
 2 **Scanning** : 
   - Port Scanning
   - Network Scanning
@@ -227,3 +227,34 @@ this line generates a wordlist that has 4 characters long, with the first charac
    - File Deletion
    - Disabling Auditing
    - Clearing Logs
+
+
+# Google Dorking
+
+```bash
+
+intext:
+eg: intext:computers (searches in text)
+
+inurl:
+eg: inurl:admin (whichever results that has admin in the url that would be 
+                shown up)
+
+site:
+eg: site:google.com
+
+filetype:
+eg: cyber security filetype:ppt
+
+
+intitle:
+eg: intitle:cyber(obtains results that has cyber in their title)
+
+Combining
+
+inurl:login site:example.com (searches login in url in example.com)
+
+
+
+
+```
