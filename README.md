@@ -264,3 +264,16 @@ inurl:login site:example.com (searches login in url in example.com)
 •  Command injection attacks are possible when an application
    passes unsafe user supplied data (forms, cookies, HTTP
    headers etc.) to a system shell.
+
+
+
+# XSS
+Cross Site Scripting (XSS)
+
+• Malicious scripts are injected into otherwise benign and
+  trusted websites.
+
+• Types : Reflected XSS, Stored XSS, DOM based XSS
+
+• Sample Payload : <script>alert(l)<lscript>
+  <script>alert(document.cookie)</script>
