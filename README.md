@@ -275,5 +275,8 @@ Cross Site Scripting (XSS)
 
 • Types : Reflected XSS, Stored XSS, DOM based XSS
 
-• Sample Payload : <script>alert(l)<lscript>
+• Sample Payload : 
+```bash
+  <script>alert(l)</script>
   <script>alert(document.cookie)</script>
+```
