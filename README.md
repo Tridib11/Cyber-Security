@@ -280,3 +280,6 @@ Cross Site Scripting (XSS)
   <script>alert(l)</script>
   <script>alert(document.cookie)</script>
 ```
+
+
+# SQL Injection
